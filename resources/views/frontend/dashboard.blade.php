@@ -278,8 +278,9 @@
                                         <div class="verification-alert">
                                             <input type="checkbox" name="profile_verification" id="profile_verification">
                                             <label for="profile_verification">
-                                               Profile Verification is recomended for this category.
-                                               Please check the checkbox to verify your profile. One time Rs 500 will be charged to verify your profile.
+                                            Live Cam සඳහා Verified ගිණුම් වලට වැඩි පාරිභෝගික අවධානය ලැබෙන බැවින් ඔබගේ ගිණුම verify කිරීමෙන් වැඩි ආදායමක් ලබා ගත හැක. Verified ලේබලය ලබා ගැනීමට රු.6000ක තැන්පත් මුදලක‍් අය කරනු ලැබේ.
+
+                                            In the Live Cam category, verified profiles receive more customer attention, so by verifying your profile you can earn more. A fee of Rs.6000 will be charged to get the verified label.
                                             </label>
                                         </div>
                                     </div>

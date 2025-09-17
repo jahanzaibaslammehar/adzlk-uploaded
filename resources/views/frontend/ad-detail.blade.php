@@ -219,13 +219,15 @@
                 <div class="disclaimer-content">
                     <div class="disclaimer-sinhala">
                         <h3>අවවාදය / Disclaimer</h3>
-                        <p>Lanka Ads අප විසින් සහතික කර ඇති සේවා සදහා අප ආයතනය වග කියන අතර අනෙකුත් ඕනෑම සේවාවක් සදහා හමු වීමට පෙර හෝ හමු වී ඔබ විසින් කරන ලද ගනුදෙනු සදහා අප ආයතනය වග කියන්නේ නැත.</p>
-                        <p>ඔබ Full Service සෙවාවක් ලබා ගැනීමට යාමේදී හමු වු පසුව පමණක් මුදල් ගෙවන්න. මෙය නිදහස් වෙබ් අඩවියකි. අප ඔබට සපයාදී ඇත්තෙ නිදහස් දැන්වීම් පල කරගැනීමට ඇති මාද්‍යක් පමණි. ඔබගේ ගනුදෙනු වලට අප වගකිවයුතු නැත. CAM සෙවාවන් සදහා Verified දී ඇති සෙවාවන් නියොජිතයන් සෙවාවන් ලබාගෙන තහාවුරු කොට ඇති විස්වාශනීව සෙවාවන්වෙ.</p>
+                        <p>adzlk.com දැන්වීම් දැමීමේ පහසුව ලබාදෙන Classified Ads වෙබ් අඩවියක් වන අතර මෙහි පළවන දැන්වීම් සඳහා adzlk.com වෙබ් අඩවියට කිසිදු ආකාරයක සෘජු සම්බන්ධතාවයක් නොමැත. මෙම දැන්වීම් සඳහා වගකීම හා ගනුදෙනු පිළිබඳ වගකීම් කිසිසේත් adzlk.com භාර නොගනී.
+ඔබ සේවාවක් සඳහා යන්නේ නම්, මුලින්ම මුදල් ගෙවීමෙන් වළකින්න. මුලින්ම පුද්ගලයා හමුවන්න. ගනුදෙනු පිළිබඳ වගකීම් adzlk.com භාර නොගනී.
+CAM සේවාවන් සඳහා, විශ්වාසවන්ත සේවාවන් ලබාගැනීමට Verified දැන්වීම් පමණක් තෝරා ගැනීමට අපි උපදෙස් දෙමු.</p>
                     </div>
                     <div class="disclaimer-english">
                         <h3>English Translation</h3>
-                        <p>Our company is responsible for the services we guarantee and our company is not responsible for the transactions made by you before or after meeting for any other services.</p>
-                        <p>If you going to get a full service please don't deposit money before meet. This is Only a Classified Ads website, We Nasty Lanka only provide classifieds. We are not responsible for transactions. If you pick Cam services Use VERIFIED ADS for reliable services.</p>
+                        <p>adzlk.com is a Classified Ads website that provides an easy platform for posting advertisements. adzlk.com has no direct connection to the advertisements published here. adzlk.com does not take responsibility or liability for these advertisements or any transactions related to them.
+If you are going for a service, please avoid making payments upfront. Meet the person first. adzlk.com does not take responsibility for any transactions.
+For CAM services, we recommend choosing only Verified Ads to ensure reliable services.</p>
                     </div>
                 </div>
             </div>
@@ -238,8 +240,8 @@
             <h2><i class="fa fa-exclamation-triangle"></i> Profile Not Verified</h2>
         </div>
         <div class="modal-body">
-            <p>This profile is not verified.</p>
-            <p>For your safety, we recommend using verified profiles for live cam services.</p>
+            <p>මෙම ගිණුම verify කර නොමැත.</p>
+            <p>ඔබේ ආරක්ෂාව සඳහා, සජීවී කැමරා සේවාවන් සඳහා verify ගිණුම් භාවිතා කිරීමට අපි නිර්දේශ කරමු.</p>
         </div>
         <div class="modal-footer">
             <button class="modal-ok-btn" onclick="closeVerificationModal()">OK</button>
