@@ -65,82 +65,89 @@
                   
                   <div class="page-content">
                       <div class="page-header">
-                          <h1><i class="fa fa-gavel"></i> Terms & Conditions</h1>
-                          <p class="page-subtitle">Please read these terms carefully before using our service</p>
+                          <h1><i class="fa fa-gavel"></i> Terms and Conditions</h1>
+                          <p class="page-subtitle">Effective Date: September 6, 2025</p>
                       </div>
                       
                       <div class="content-section">
-                          <h2>1. Acceptance of Terms</h2>
-                          <p>By accessing and using this website, you accept and agree to be bound by the terms and provision of this agreement. If you do not agree to abide by the above, please do not use this service.</p>
+                          <h2>Welcome to adzlk.com</h2>
+                          <p>These Terms and Conditions outline the rules and regulations for using the adzlk.com website, located at https://adzlk.com. By accessing this website, you agree to comply with these Terms. If you do not agree, please discontinue use of adzlk.com.</p>
                       </div>
                       
                       <div class="content-section">
-                          <h2>2. Use License</h2>
-                          <p>Permission is granted to temporarily download one copy of the materials (information or software) on our website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:</p>
+                          <h2>Cookies</h2>
+                          <p>adzlk.com uses cookies to improve your browsing experience. By using adzlk.com, you consent to the use of required cookies.</p>
+                          <p>Cookies are small text files placed on your device by a web server. They cannot run programs or spread viruses. Cookies are unique to you and can only be read by the server that created them.</p>
+                          <p>We may use cookies to collect, store, and track information for statistical or marketing purposes. You may accept or decline optional cookies, but required cookies are essential for site operation and cannot be disabled. By accepting required cookies, you also consent to third-party cookies (e.g., embedded content, analytics, or ads).</p>
+                      </div>
+                      
+                      <div class="content-section">
+                          <h2>License</h2>
+                          <p>Unless otherwise stated, adzlk.com and/or its licensors own the intellectual property rights for all material on this site. All rights are reserved. You may access content for personal use, subject to these restrictions.</p>
+                          <p>You must not:</p>
                           <ul>
-                              <li>Modify or copy the materials</li>
-                              <li>Use the materials for any commercial purpose or for any public display</li>
-                              <li>Attempt to reverse engineer any software contained on the website</li>
-                              <li>Remove any copyright or other proprietary notations from the materials</li>
+                              <li>Republish material from adzlk.com</li>
+                              <li>Sell, rent, or sub-license material from adzlk.com</li>
+                              <li>Reproduce, duplicate, or copy material from adzlk.com</li>
+                              <li>Redistribute content from adzlk.com</li>
                           </ul>
+                          <p>This agreement begins on the date you start using the website.</p>
                       </div>
                       
                       <div class="content-section">
-                          <h2>3. User Responsibilities</h2>
-                          <p>As a user of our platform, you agree to:</p>
+                          <h2>User Content</h2>
+                          <p>Parts of this site allow users to post and share opinions, information, or listings. adzlk.com does not filter, edit, or review content before publication. Content reflects the views of users only, not those of adzlk.com, its staff, or affiliates.</p>
+                          <p>adzlk.com is not responsible for user content or any damages arising from it. However, we reserve the right to monitor and remove content deemed inappropriate, offensive, unlawful, or in breach of these Terms.</p>
+                          <p>By posting content, you confirm that:</p>
                           <ul>
-                              <li>Provide accurate and truthful information</li>
-                              <li>Respect the rights of other users</li>
-                              <li>Not post inappropriate, offensive, or illegal content</li>
-                              <li>Not engage in spam or fraudulent activities</li>
-                              <li>Maintain the security of your account</li>
+                              <li>You have the right to post and have necessary permissions.</li>
+                              <li>Content does not infringe on intellectual property rights of others.</li>
+                              <li>Content is not defamatory, offensive, unlawful, or invasive of privacy.</li>
+                              <li>Content will not be used to promote illegal activities.</li>
                           </ul>
+                          <p>By posting on adzlk.com, you grant us a non-exclusive license to use, reproduce, and edit your content in any media or format.</p>
                       </div>
                       
                       <div class="content-section">
-                          <h2>4. Content Guidelines</h2>
-                          <p>All content posted on our platform must:</p>
+                          <h2>Hyperlinking to Our Content</h2>
+                          <p>The following organizations may link to adzlk.com without prior approval:</p>
                           <ul>
-                              <li>Be accurate and truthful</li>
-                              <li>Comply with applicable laws and regulations</li>
-                              <li>Not infringe on intellectual property rights</li>
-                              <li>Not contain harmful, offensive, or inappropriate material</li>
-                              <li>Respect the privacy and dignity of others</li>
+                              <li>Government agencies</li>
+                              <li>Search engines</li>
+                              <li>News outlets</li>
+                              <li>Online directories</li>
+                              <li>Accredited businesses (excluding non-profit soliciting groups)</li>
                           </ul>
+                          <p>Approved links must not be misleading, must not falsely imply endorsement, and must fit the context of the linking party's site.</p>
+                          <p>Other organizations may request approval. We will consider requests if links are relevant, lawful, and beneficial to both parties.</p>
                       </div>
                       
                       <div class="content-section">
-                          <h2>5. Privacy and Data Protection</h2>
-                          <p>We are committed to protecting your privacy. Our collection and use of personal information is governed by our Privacy Policy, which is incorporated into these Terms by reference.</p>
+                          <h2>Content Liability</h2>
+                          <p>We are not responsible for content appearing on external websites linked to adzlk.com. You agree to protect us from claims arising from your site if it links to ours. No links should appear on sites that could be interpreted as libelous, obscene, unlawful, or infringing third-party rights.</p>
                       </div>
                       
                       <div class="content-section">
-                          <h2>6. Limitation of Liability</h2>
-                          <p>In no event shall our company or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on our website.</p>
+                          <h2>Reservation of Rights</h2>
+                          <p>adzlk.com reserves the right to request removal of any links to our site. By linking to adzlk.com, you agree to comply with such requests. We also reserve the right to update these Terms at any time.</p>
                       </div>
                       
                       <div class="content-section">
-                          <h2>7. Termination</h2>
-                          <p>We may terminate or suspend your account and bar access to the service immediately, without prior notice or liability, under our sole discretion, for any reason whatsoever and without limitation, including but not limited to a breach of the Terms.</p>
+                          <h2>Removal of Links</h2>
+                          <p>If you find any link on adzlk.com offensive, you may contact us. While we will consider all requests, we are not obligated to remove content or respond directly.</p>
+                          <p>We do not guarantee that all site information is accurate or current, and we may update content at any time without notice.</p>
                       </div>
                       
                       <div class="content-section">
-                          <h2>8. Changes to Terms</h2>
-                          <p>We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material, we will try to provide at least 30 days notice prior to any new terms taking effect.</p>
-                      </div>
-                      
-                      <div class="content-section">
-                          <h2>9. Contact Information</h2>
-                          <p>If you have any questions about these Terms & Conditions, please contact us at:</p>
-                          <div class="contact-info">
-                              <p><i class="fa fa-envelope"></i> Email: support@adsplatform.com</p>
-                              <p><i class="fa fa-phone"></i> Phone: +1 (555) 123-4567</p>
-                              <p><i class="fa fa-map-marker"></i> Address: 123 Business Street, City, State 12345</p>
-                          </div>
-                      </div>
-                      
-                      <div class="content-section">
-                          <p class="last-updated"><strong>Last Updated:</strong> {{ date('F d, Y') }}</p>
+                          <h2>Disclaimer</h2>
+                          <p>To the fullest extent permitted by law, adzlk.com excludes all warranties and conditions relating to this website and its use.</p>
+                          <p>Nothing in this disclaimer will:</p>
+                          <ul>
+                              <li>Limit or exclude liability for death or personal injury caused by negligence.</li>
+                              <li>Limit or exclude liability for fraud or misrepresentation.</li>
+                              <li>Limit any liabilities not permitted under applicable law.</li>
+                          </ul>
+                          <p>As long as adzlk.com provides services free of charge, we will not be liable for any loss or damage of any kind.</p>
                       </div>
                   </div>
               </div>

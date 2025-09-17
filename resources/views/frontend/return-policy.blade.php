@@ -65,172 +65,59 @@
                   
                   <div class="page-content">
                       <div class="page-header">
-                          <h1><i class="fa fa-undo"></i> Return Policy</h1>
-                          <p class="page-subtitle">Understanding our refund and return policies</p>
+                          <h1><i class="fa fa-undo"></i> Return & Refund Policy – adzlk.com</h1>
+                          <p class="page-subtitle">Effective Date: September 6, 2025</p>
                       </div>
                       
                       <div class="content-section">
                           <h2>Overview</h2>
-                          <p>We want you to be completely satisfied with our services. This return policy outlines the terms and conditions for refunds, returns, and cancellations of our advertising services and premium features.</p>
-                          <p>Please read this policy carefully before making a purchase. By using our services, you agree to the terms outlined below.</p>
+                          <p>At adzlk.com, we operate as an online listing platform where users can post and browse ads. Since we do not sell products or services directly, we do not handle physical returns or exchanges. Please read the following carefully:</p>
                       </div>
                       
                       <div class="content-section">
-                          <h2>Service Refund Policy</h2>
-                          
-                          <div class="refund-category">
-                              <h3>Premium Advertising Services</h3>
-                              <p>For our premium advertising services (Super Ads, VIP Ads, and additional features), we offer the following refund terms:</p>
-                              <ul>
-                                  <li><strong>7-Day Money-Back Guarantee:</strong> Full refund available within 7 days of purchase if you're not satisfied with the service</li>
-                                  <li><strong>Partial Refunds:</strong> Pro-rated refunds may be available for unused portions of monthly/annual subscriptions</li>
-                                  <li><strong>Service Issues:</strong> Full refund if we cannot deliver the promised service due to technical issues on our end</li>
-                              </ul>
-                          </div>
-                          
-                          <div class="refund-category">
-                              <h3>Additional Services</h3>
-                              <p>For professional photography, copywriting, and other add-on services:</p>
-                              <ul>
-                                  <li><strong>Before Service Delivery:</strong> Full refund if cancelled before work begins</li>
-                                  <li><strong>During Service:</strong> Partial refund based on work completed</li>
-                                  <li><strong>After Delivery:</strong> Refund only if service doesn't meet agreed-upon specifications</li>
-                              </ul>
-                          </div>
-                          
-                          <div class="refund-category">
-                              <h3>Non-Refundable Services</h3>
-                              <p>The following services are non-refundable:</p>
-                              <ul>
-                                  <li>Basic ad posting fees (if applicable)</li>
-                                  <li>Completed professional services</li>
-                                  <li>Analytics and reporting services after delivery</li>
-                                  <li>Social media promotion after campaign launch</li>
-                              </ul>
-                          </div>
-                      </div>
-                      
-                      <div class="content-section">
-                          <h2>Refund Process</h2>
-                          
-                          <div class="process-steps">
-                              <div class="step">
-                                  <div class="step-number">1</div>
-                                  <h3>Submit Request</h3>
-                                  <p>Contact our customer support team with your refund request, including your order number and reason for the refund.</p>
-                              </div>
-                              
-                              <div class="step">
-                                  <div class="step-number">2</div>
-                                  <h3>Review Process</h3>
-                                  <p>Our team will review your request within 2-3 business days and may request additional information if needed.</p>
-                              </div>
-                              
-                              <div class="step">
-                                  <div class="step-number">3</div>
-                                  <h3>Approval & Processing</h3>
-                                  <p>Once approved, refunds are processed within 5-10 business days, depending on your payment method.</p>
-                              </div>
-                              
-                              <div class="step">
-                                  <div class="step-number">4</div>
-                                  <h3>Confirmation</h3>
-                                  <p>You'll receive an email confirmation when your refund has been processed and issued.</p>
-                              </div>
-                          </div>
-                      </div>
-                      
-                      <div class="content-section">
-                          <h2>Refund Eligibility Requirements</h2>
-                          <p>To be eligible for a refund, you must meet the following criteria:</p>
+                          <h2>1. Transactions Between Users</h2>
                           <ul>
-                              <li>Submit your refund request within the specified time frame</li>
-                              <li>Provide a valid reason for the refund request</li>
-                              <li>Include your order number and account information</li>
-                              <li>Not have violated our terms of service</li>
-                              <li>Not have used the service extensively (for service-related refunds)</li>
+                              <li>All purchases, sales, and services arranged through ads on adzlk.com are between the buyer and the seller.</li>
+                              <li>adzlk.com does not guarantee the quality, safety, legality, or delivery of goods or services listed by users.</li>
+                              <li>Any return, refund, or exchange request must be resolved directly between the parties involved.</li>
                           </ul>
                       </div>
                       
                       <div class="content-section">
-                          <h2>Refund Methods</h2>
-                          <p>Refunds are issued through the same payment method used for the original purchase:</p>
+                          <h2>2. Paid Advertising Services</h2>
+                          <p>adzlk.com offers promotional ad services such as Normal, Super, and VIP Ads.</p>
                           <ul>
-                              <li><strong>Credit/Debit Cards:</strong> 5-10 business days to appear on your statement</li>
-                              <li><strong>PayPal:</strong> 3-5 business days to your PayPal account</li>
-                              <li><strong>Bank Transfers:</strong> 7-14 business days to your bank account</li>
+                              <li>Normal Ads are free or low-cost, and payments (if any) are non-refundable once the ad is posted.</li>
+                              <li>Super Ads and VIP Ads are premium upgrades that give additional visibility for the first 24 hours, after which they convert to Normal Ads.</li>
+                              <li>Once purchased and published, payments for Super or VIP Ads are non-refundable, even if you choose to remove your ad early.</li>
                           </ul>
-                          <p><strong>Note:</strong> Processing times may vary depending on your financial institution and payment processor.</p>
                       </div>
                       
                       <div class="content-section">
-                          <h2>Cancellation Policy</h2>
-                          
-                          <div class="cancellation-info">
-                              <h3>Subscription Cancellations</h3>
-                              <p>You may cancel your subscription at any time:</p>
-                              <ul>
-                                  <li><strong>Immediate Effect:</strong> Cancellation takes effect at the end of your current billing period</li>
-                                  <li><strong>No Refund:</strong> No refund for the current billing period</li>
-                                  <li><strong>Service Continuation:</strong> Services remain active until the end of the paid period</li>
-                                  <li><strong>Data Retention:</strong> Your ad data is retained for 30 days after cancellation</li>
-                              </ul>
-                          </div>
-                          
-                          <div class="cancellation-info">
-                              <h3>Service Cancellations</h3>
-                              <p>For one-time services and add-ons:</p>
-                              <ul>
-                                  <li><strong>Before Service Begins:</strong> Full refund available</li>
-                                  <li><strong>During Service:</strong> Partial refund based on work completed</li>
-                                  <li><strong>After Completion:</strong> No refund unless service doesn't meet specifications</li>
-                              </ul>
-                          </div>
-                      </div>
-                      
-                      <div class="content-section">
-                          <h2>Exceptions and Special Circumstances</h2>
-                          <p>We understand that exceptional circumstances may arise. In such cases, we may consider refunds outside our standard policy:</p>
+                          <h2>3. Cancellations</h2>
                           <ul>
-                              <li>Technical issues preventing service delivery</li>
-                              <li>Billing errors or duplicate charges</li>
-                              <li>Service unavailability due to platform maintenance</li>
-                              <li>Extenuating personal circumstances (case-by-case basis)</li>
+                              <li>Users may delete their ads at any time from their account dashboard.</li>
+                              <li>Deleting an ad does not qualify for a refund of any fees already paid.</li>
                           </ul>
-                          <p>All exceptions are reviewed on a case-by-case basis by our management team.</p>
                       </div>
                       
                       <div class="content-section">
-                          <h2>Dispute Resolution</h2>
-                          <p>If you disagree with a refund decision:</p>
-                          <ol>
-                              <li><strong>Contact Support:</strong> Reach out to our customer support team for clarification</li>
-                              <li><strong>Escalation:</strong> Request escalation to a supervisor if needed</li>
-                              <li><strong>Documentation:</strong> Provide any additional documentation or evidence</li>
-                              <li><strong>Final Review:</strong> Final decision made by our management team</li>
-                          </ol>
-                          <p>We are committed to fair and transparent resolution of all disputes.</p>
+                          <h2>4. Platform Errors</h2>
+                          <p>If there is a proven technical error on adzlk.com that prevents your ad from being published or displayed properly:</p>
+                          <ul>
+                              <li>Please contact us at support@adzlk.com within 48 hours of posting.</li>
+                              <li>Our team will review the issue and may, at our discretion, offer:</li>
+                              <li>A re-post of the ad at no extra charge, or</li>
+                              <li>A refund of the promotional fee.</li>
+                          </ul>
                       </div>
                       
                       <div class="content-section">
-                          <h2>Contact Information</h2>
-                          <p>For refund requests, cancellations, or questions about this policy, please contact us:</p>
+                          <h2>5. Contact Us</h2>
+                          <p>If you have questions about this Return Policy, please contact us:</p>
                           <div class="contact-info">
-                              <p><i class="fa fa-envelope"></i> Email: refunds@adsplatform.com</p>
-                              <p><i class="fa fa-phone"></i> Phone: +1 (555) 123-4567</p>
-                              <p><i class="fa fa-map-marker"></i> Address: 123 Business Street, City, State 12345</p>
-                              <p><i class="fa fa-clock"></i> Business Hours: Monday - Friday, 9:00 AM - 6:00 PM</p>
+                              <p><i class="fa fa-envelope"></i> 📧 support@adzlk.com</p>
                           </div>
-                      </div>
-                      
-                      <div class="content-section">
-                          <h2>Policy Updates</h2>
-                          <p>We reserve the right to update this return policy at any time. Changes will be effective immediately upon posting on our website. We encourage you to review this policy periodically.</p>
-                          <p>Continued use of our services after policy changes constitutes acceptance of the updated terms.</p>
-                      </div>
-                      
-                      <div class="content-section">
-                          <p class="last-updated"><strong>Last Updated:</strong> {{ date('F d, Y') }}</p>
                       </div>
                   </div>
               </div>

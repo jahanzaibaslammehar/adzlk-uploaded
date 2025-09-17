@@ -65,173 +65,109 @@
                   
                   <div class="page-content">
                       <div class="page-header">
-                          <h1><i class="fa fa-cogs"></i> Our Services</h1>
-                          <p class="page-subtitle">Comprehensive advertising solutions for every need</p>
+                          <h1><i class="fa fa-cogs"></i> Services – adzlk.com</h1>
+                          <p class="page-subtitle">Simple tools to help you reach the right audience</p>
                       </div>
                       
                       <div class="content-section">
-                          <h2>Advertising Solutions</h2>
-                          <p>We offer a comprehensive range of advertising services designed to help individuals and businesses reach their target audience effectively. Whether you're looking to sell a single item or promote your business, we have the right solution for you.</p>
+                          <h2>Welcome to adzlk.com Services</h2>
+                          <p>At adzlk.com, our goal is to make it easy for Sri Lankans to connect, promote, and grow. Whether you're an individual, a small business, or just someone looking to meet new people, our platform provides simple tools to help you reach the right audience.</p>
                       </div>
                       
-                      <div class="services-grid">
-                          <div class="service-card">
-                              <div class="service-icon">
-                                  <i class="fa fa-star"></i>
+                      <div class="content-section">
+                          <h2>What We Offer</h2>
+                          
+                          <div class="service-offering">
+                              <div class="service-header">
+                                  <span class="service-icon">🟢</span>
+                                  <h3>Free & Paid Ad Listings</h3>
                               </div>
-                              <h3>Normal Ads</h3>
-                              <p>Perfect for individual sellers and small businesses. Get your message out with our standard advertising package.</p>
-                              <ul class="service-features">
-                                  <li>30-day visibility</li>
-                                  <li>Basic search optimization</li>
-                                  <li>Image upload support</li>
-                                  <li>Contact information display</li>
-                                  <li>Category placement</li>
+                              <ul>
+                                  <li>Post Normal Ads free of charge.</li>
+                                  <li>Upgrade to Super or VIP Ads for maximum visibility.</li>
+                                  <li>After 24 hours, Super and VIP Ads automatically convert to Normal Ads, keeping your listing active for the full duration.</li>
                               </ul>
-                              <div class="service-price">
-                                  <span class="price">Free</span>
-                                  <span class="period">Basic Package</span>
-                              </div>
                           </div>
                           
-                          <div class="service-card featured">
-                              <div class="service-icon">
-                                  <i class="fa fa-rocket"></i>
+                          <div class="service-offering">
+                              <div class="service-header">
+                                  <span class="service-icon">🟢</span>
+                                  <h3>Category-Based Listings</h3>
                               </div>
-                              <h3>Super Ads</h3>
-                              <p>Enhanced visibility for serious sellers. Stand out from the crowd with priority placement and additional features.</p>
-                              <ul class="service-features">
-                                  <li>45-day visibility</li>
-                                  <li>Priority placement in search results</li>
-                                  <li>Enhanced image gallery</li>
-                                  <li>Featured category placement</li>
-                                  <li>Analytics dashboard</li>
-                                  <li>Social media sharing</li>
+                              <p>Choose from a wide range of categories to make sure your ad reaches the right audience, including:</p>
+                              <ul>
+                                  <li>Personal ads & meetups</li>
+                                  <li>Services (spa, tutoring, repair, transport, etc.)</li>
+                                  <li>Buy & sell items</li>
+                                  <li>Events & promotions</li>
                               </ul>
-                              <div class="service-price">
-                                  <span class="price">$19.99</span>
-                                  <span class="period">per month</span>
-                              </div>
                           </div>
                           
-                          <div class="service-card">
-                              <div class="service-icon">
-                                  <i class="fa fa-crown"></i>
+                          <div class="service-offering">
+                              <div class="service-header">
+                                  <span class="service-icon">🟢</span>
+                                  <h3>Premium Visibility</h3>
                               </div>
-                              <h3>VIP Ads</h3>
-                              <p>Premium advertising solution for businesses seeking maximum exposure and professional presentation.</p>
-                              <ul class="service-features">
-                                  <li>60-day visibility</li>
-                                  <li>Top placement in all categories</li>
-                                  <li>Unlimited image uploads</li>
-                                  <li>Premium customer support</li>
-                                  <li>Advanced analytics</li>
-                                  <li>Cross-category promotion</li>
-                                  <li>Priority customer service</li>
+                              <ul>
+                                  <li><strong>VIP Ads</strong> – Top placement for 24 hours, then continue as Normal Ads.</li>
+                                  <li><strong>Super Ads</strong> – Boosted placement for 24 hours, then continue as Normal Ads.</li>
+                                  <li>Both ad types help you get quick attention when it matters most.</li>
                               </ul>
-                              <div class="service-price">
-                                  <span class="price">$49.99</span>
-                                  <span class="period">per month</span>
-                              </div>
                           </div>
-                      </div>
-                      
-                      <div class="content-section">
-                          <h2>Additional Services</h2>
-                          <div class="additional-services">
-                              <div class="service-item">
-                                  <i class="fa fa-camera"></i>
-                                  <h3>Professional Photography</h3>
-                                  <p>High-quality product photography to make your ads stand out. Our professional photographers can capture your products in the best light.</p>
-                                  <span class="service-cost">Starting at $29.99</span>
-                              </div>
-                              
-                              <div class="service-item">
-                                  <i class="fa fa-edit"></i>
-                                  <h3>Ad Copywriting</h3>
-                                  <p>Professional copywriting services to create compelling ad descriptions that drive engagement and sales.</p>
-                                  <span class="service-cost">Starting at $19.99</span>
-                              </div>
-                              
-                              <div class="service-item">
-                                  <i class="fa fa-chart-line"></i>
-                                  <h3>Performance Analytics</h3>
-                                  <p>Detailed insights into your ad performance, including views, clicks, and engagement metrics.</p>
-                                  <span class="service-cost">Starting at $9.99/month</span>
-                              </div>
-                              
-                              <div class="service-item">
-                                  <i class="fa fa-bullhorn"></i>
-                                  <h3>Social Media Promotion</h3>
-                                  <p>Extend your reach with social media promotion across multiple platforms.</p>
-                                  <span class="service-cost">Starting at $39.99</span>
-                              </div>
-                          </div>
-                      </div>
-                      
-                      <div class="content-section">
-                          <h2>Business Solutions</h2>
-                          <p>For businesses looking to scale their advertising efforts, we offer customized solutions and bulk pricing options.</p>
                           
-                          <div class="business-features">
-                              <div class="feature-item">
-                                  <i class="fa fa-users"></i>
-                                  <h3>Bulk Ad Management</h3>
-                                  <p>Manage multiple advertisements from a single dashboard with bulk editing and scheduling capabilities.</p>
+                          <div class="service-offering">
+                              <div class="service-header">
+                                  <span class="service-icon">🟢</span>
+                                  <h3>User-Friendly Dashboard</h3>
                               </div>
-                              
-                              <div class="feature-item">
-                                  <i class="fa fa-chart-bar"></i>
-                                  <h3>Advanced Reporting</h3>
-                                  <p>Comprehensive reporting tools to track performance, ROI, and campaign effectiveness.</p>
+                              <ul>
+                                  <li>Create, manage, and track all your ads in one place.</li>
+                                  <li>Edit, renew, or delete ads anytime.</li>
+                                  <li>See how many views your ads are getting.</li>
+                              </ul>
+                          </div>
+                          
+                          <div class="service-offering">
+                              <div class="service-header">
+                                  <span class="service-icon">🟢</span>
+                                  <h3>Community-Focused Platform</h3>
                               </div>
-                              
-                              <div class="feature-item">
-                                  <i class="fa fa-headset"></i>
-                                  <h3>Dedicated Support</h3>
-                                  <p>Priority customer support with dedicated account managers for business clients.</p>
-                              </div>
-                              
-                              <div class="feature-item">
-                                  <i class="fa fa-shield-alt"></i>
-                                  <h3>Verification Badge</h3>
-                                  <p>Build trust with verified business accounts and premium verification badges.</p>
-                              </div>
+                              <ul>
+                                  <li>Built for Sri Lankan users.</li>
+                                  <li>Simple, safe, and transparent.</li>
+                                  <li>Designed to help people connect easily without complications.</li>
+                              </ul>
                           </div>
                       </div>
                       
                       <div class="content-section">
-                          <h2>Why Choose Our Services?</h2>
+                          <h2>Why Choose adzlk.com?</h2>
                           <div class="benefits-grid">
                               <div class="benefit-item">
                                   <i class="fa fa-check-circle"></i>
-                                  <h3>Proven Results</h3>
-                                  <p>Thousands of satisfied customers have achieved their advertising goals with our platform.</p>
+                                  <h3>Easy to post and manage ads</h3>
                               </div>
                               
                               <div class="benefit-item">
-                                  <i class="fa fa-clock"></i>
-                                  <h3>Quick Setup</h3>
-                                  <p>Get your ads running in minutes with our streamlined setup process.</p>
+                                  <i class="fa fa-check-circle"></i>
+                                  <h3>Flexible ad options (Normal, Super, VIP)</h3>
                               </div>
                               
                               <div class="benefit-item">
-                                  <i class="fa fa-mobile-alt"></i>
-                                  <h3>Mobile Optimized</h3>
-                                  <p>Reach customers on all devices with our mobile-friendly platform.</p>
+                                  <i class="fa fa-check-circle"></i>
+                                  <h3>Strong community focus</h3>
                               </div>
                               
                               <div class="benefit-item">
-                                  <i class="fa fa-globe"></i>
-                                  <h3>Local & Global Reach</h3>
-                                  <p>Target local customers or expand your reach to broader markets.</p>
+                                  <i class="fa fa-check-circle"></i>
+                                  <h3>Affordable promotion for individuals and businesses</h3>
                               </div>
                           </div>
                       </div>
                       
                       <div class="content-section">
-                          <h2>Get Started Today</h2>
-                          <p>Ready to boost your advertising success? Choose the service that best fits your needs and start reaching more customers today.</p>
+                          <h2>Get Started Today!</h2>
+                          <p>👉 Start today! Post your ad on adzlk.com and get noticed.</p>
                           <div class="cta-buttons">
                               <button class="btn-primary" onclick="location.href='{{ route('login') }}'">
                                   <i class="fa fa-user-plus"></i> Create Account
@@ -239,16 +175,6 @@
                               <button class="btn-secondary" onclick="location.href='{{ route('home') }}'">
                                   <i class="fa fa-search"></i> Browse Ads
                               </button>
-                          </div>
-                      </div>
-                      
-                      <div class="content-section">
-                          <h2>Need Help Choosing?</h2>
-                          <p>Not sure which service is right for you? Our team is here to help you make the best choice for your advertising needs.</p>
-                          <div class="contact-info">
-                              <p><i class="fa fa-envelope"></i> Email: services@adsplatform.com</p>
-                              <p><i class="fa fa-phone"></i> Phone: +1 (555) 123-4567</p>
-                              <p><i class="fa fa-map-marker"></i> Address: 123 Business Street, City, State 12345</p>
                           </div>
                       </div>
                   </div>

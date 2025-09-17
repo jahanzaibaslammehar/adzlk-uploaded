@@ -65,84 +65,66 @@
                   
                   <div class="page-content">
                       <div class="page-header">
-                          <h1><i class="fa fa-info-circle"></i> About Us</h1>
-                          <p class="page-subtitle">Connecting people through trusted advertisements</p>
+                          <h1><i class="fa fa-info-circle"></i> About Us – adzlk.com</h1>
+                          <p class="page-subtitle">Sri Lanka's trusted platform for connecting people, businesses, and communities</p>
                       </div>
                       
                       <div class="content-section">
-                          <h2>Our Story</h2>
-                          <p>Founded in 2024, our platform was born from a simple idea: to create a trusted, user-friendly space where people could easily find and share what they need. What started as a small local marketplace has grown into a comprehensive advertising platform serving communities across the region.</p>
-                          <p>We believe that everyone deserves access to quality goods and services, and every business deserves a platform to reach their customers effectively. Our mission is to bridge the gap between buyers and sellers, creating meaningful connections that benefit both parties.</p>
+                          <h2>Welcome to adzlk.com</h2>
+                          <p>We created adzlk.com with one simple goal: to make it easier for Sri Lankans to find what they need and share what they offer. Whether you're looking to buy, sell, meet new people, or promote your services, adzlk.com gives you a safe and simple space to connect.</p>
                       </div>
                       
                       <div class="content-section">
-                          <h2>Our Mission</h2>
-                          <p>To provide a secure, efficient, and user-friendly platform that empowers individuals and businesses to connect, trade, and grow together. We strive to create an environment where trust, transparency, and community values are at the heart of every transaction.</p>
+                          <h2>What We Do</h2>
+                          <div class="features-grid">
+                              <div class="feature-item">
+                                  <i class="fa fa-list-alt"></i>
+                                  <h3>Local Listings</h3>
+                                  <p>Post ads for products, services, meetups, or events.</p>
+                              </div>
+                              <div class="feature-item">
+                                  <i class="fa fa-users"></i>
+                                  <h3>Connections</h3>
+                                  <p>Meet people, build networks, or discover opportunities near you.</p>
+                              </div>
+                              <div class="feature-item">
+                                  <i class="fa fa-mobile-alt"></i>
+                                  <h3>Convenience</h3>
+                                  <p>A user-friendly platform that works for everyone, from students and professionals to small businesses.</p>
+                              </div>
+                          </div>
+                      </div>
+                      
+                      <div class="content-section">
+                          <h2>Why Choose adzlk.com?</h2>
+                          <div class="values-list">
+                              <div class="value-item">
+                                  <h3><i class="fa fa-flag"></i> For the Community</h3>
+                                  <p>Designed especially for Sri Lankan users, with local needs in mind.</p>
+                              </div>
+                              <div class="value-item">
+                                  <h3><i class="fa fa-rocket"></i> Easy to Use</h3>
+                                  <p>Post an ad in minutes and reach thousands of users.</p>
+                              </div>
+                              <div class="value-item">
+                                  <h3><i class="fa fa-shield-alt"></i> Safe & Transparent</h3>
+                                  <p>We provide guidelines and monitoring to keep listings real, relevant, and respectful.</p>
+                              </div>
+                              <div class="value-item">
+                                  <h3><i class="fa fa-cogs"></i> Flexible</h3>
+                                  <p>From personal ads to business promotions, adzlk.com is built to support a wide range of listings.</p>
+                              </div>
+                          </div>
                       </div>
                       
                       <div class="content-section">
                           <h2>Our Vision</h2>
-                          <p>To become the most trusted and preferred advertising platform in our region, known for our commitment to user safety, innovative features, and exceptional customer service. We envision a future where our platform serves as the go-to destination for all types of advertisements and business needs.</p>
+                          <p>To become Sri Lanka's go-to online hub where people can connect, share, and grow together.</p>
                       </div>
                       
                       <div class="content-section">
-                          <h2>What We Offer</h2>
-                          <div class="features-grid">
-                              <div class="feature-item">
-                                  <i class="fa fa-shield-alt"></i>
-                                  <h3>Secure Platform</h3>
-                                  <p>Advanced security measures to protect your information and transactions</p>
-                              </div>
-                              <div class="feature-item">
-                                  <i class="fa fa-mobile-alt"></i>
-                                  <h3>Mobile Friendly</h3>
-                                  <p>Access our platform from anywhere, anytime with our responsive design</p>
-                              </div>
-                              <div class="feature-item">
-                                  <i class="fa fa-users"></i>
-                                  <h3>Community Driven</h3>
-                                  <p>Built for the community, by the community, fostering local connections</p>
-                              </div>
-                              <div class="feature-item">
-                                  <i class="fa fa-star"></i>
-                                  <h3>Premium Features</h3>
-                                  <p>Enhanced visibility and tools for businesses looking to grow</p>
-                              </div>
-                          </div>
-                      </div>
-                      
-                      <div class="content-section">
-                          <h2>Our Values</h2>
-                          <div class="values-list">
-                              <div class="value-item">
-                                  <h3><i class="fa fa-handshake"></i> Trust</h3>
-                                  <p>Building and maintaining trust through transparency and reliability</p>
-                              </div>
-                              <div class="value-item">
-                                  <h3><i class="fa fa-heart"></i> Community</h3>
-                                  <p>Supporting and strengthening local communities through our platform</p>
-                              </div>
-                              <div class="value-item">
-                                  <h3><i class="fa fa-lightbulb"></i> Innovation</h3>
-                                  <p>Continuously improving our platform with cutting-edge technology</p>
-                              </div>
-                              <div class="value-item">
-                                  <h3><i class="fa fa-check-circle"></i> Quality</h3>
-                                  <p>Maintaining high standards in everything we do</p>
-                              </div>
-                          </div>
-                      </div>
-                      
-                      <div class="content-section">
-                          <h2>Our Team</h2>
-                          <p>Our dedicated team of professionals is passionate about creating the best possible experience for our users. From developers and designers to customer support specialists, every team member shares our commitment to excellence and user satisfaction.</p>
-                          <p>We're constantly learning, growing, and adapting to meet the evolving needs of our community. Your feedback and suggestions help us improve and innovate, making our platform better with each update.</p>
-                      </div>
-                      
-                      <div class="content-section">
-                          <h2>Community Impact</h2>
-                          <p>Since our launch, we've helped thousands of users connect, trade, and grow their businesses. Our platform has facilitated countless successful transactions, supported local businesses, and created opportunities for individuals to find what they need.</p>
-                          <p>We're proud to contribute to the economic growth of our communities and look forward to continuing this positive impact in the years to come.</p>
+                          <h2>Our Promise</h2>
+                          <p>We're committed to keeping adzlk.com simple, reliable, and community-focused. Your trust matters, and we work hard to provide a platform that brings real value to everyday life in Sri Lanka.</p>
                       </div>
                       
                       <div class="content-section">
