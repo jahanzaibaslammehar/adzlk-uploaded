@@ -93,6 +93,7 @@ class AdController extends Controller
             'is_on_imo' => $request->has('available_on_imo'),
             'is_on_viber' => $request->has('available_on_viber'),
             'is_on_telegram' => $request->has('available_on_telegram'),
+            'is_active' => true,
         ]);
 
         return redirect()->route('dashboard')->with('success', 'Ad created successfully');

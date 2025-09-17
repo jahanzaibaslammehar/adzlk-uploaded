@@ -87,6 +87,7 @@ class PaymentController extends Controller
                 'is_on_imo' => $pendingAdData['is_on_imo'],
                 'is_on_viber' => $pendingAdData['is_on_viber'],
                 'is_on_telegram' => $pendingAdData['is_on_telegram'],
+                'is_active' => true,
             ]);
 
             $transaction = Transactions::create([
