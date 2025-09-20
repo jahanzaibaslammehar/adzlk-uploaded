@@ -12,7 +12,7 @@
 
             <div class="btn">
               @if(Auth::guard('poster')->check())
-                <button class="btnRefresh" onclick="window.location.reload()">Post Ad</button>
+                <button class="btnRefresh" onclick="location.href='{{ route('dashboard') }}'">Post Ad</button>
               @else
                 <button class="btnRefresh" onclick="location.href='{{ route('home') }}'">Refresh</button>
                 <button class="btnLogin" onclick="location.href='{{ route('login') }}'">Login/Post Ad</button>
