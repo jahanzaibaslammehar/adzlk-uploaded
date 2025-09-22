@@ -21,9 +21,8 @@ class AdsTable
                 TextColumn::make('poster.phone')
                 ->searchable()
                 ->label('User')
-                    ->numeric()
-                    ->sortable(),
-
+                // ->numeric()
+                ->sortable(),
                     TextColumn::make('poster.id')
                     ->label('User ID')
                         ->numeric()
