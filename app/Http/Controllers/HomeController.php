@@ -19,7 +19,7 @@ class HomeController extends Controller
         ')
         ->orderBy('effective_ad_type', 'desc')   // VIP → Super → Normal
         ->orderBy('created_at', 'desc')          // newest inside each group
-        ->paginate(30);
+        ->paginate(50);
 
         $category = AdCategory::orderBy('id', 'DESC')->get();
         $settings = Setting::first();
