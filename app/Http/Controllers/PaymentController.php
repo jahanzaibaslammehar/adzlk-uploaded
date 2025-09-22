@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use App\Models\Ad;
 use App\Models\AdCategory;
 use App\Models\AdType;
+use App\Models\Setting;
 use App\Models\Transactions;
 use Illuminate\Http\Request;
 use Stripe\Checkout\Session;
@@ -23,8 +24,9 @@ class PaymentController extends Controller
         // Get category and ad type names for display
         $category = AdCategory::find($pendingAdData['category_id']);
         $adType = AdType::find($pendingAdData['ad_type']);
+        $setting = Setting::first();
         
-        return view('checkout', compact('pendingAdData', 'category', 'adType'));
+        return view('checkout', compact('pendingAdData', 'category', 'adType', 'setting'));
     }
 
     public function processPayment(Request $request)

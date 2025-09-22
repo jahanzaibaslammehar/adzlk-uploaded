@@ -50,7 +50,7 @@ class AdController extends Controller
                 $totalPrice = $adPrice;
 
                 if ($request->has('profile_verification') && !$user->is_verified) {
-                    $totalPrice = $totalPrice + 500;
+                    $totalPrice = $totalPrice + $setting->verify_profile_price;
                     $profileVerification = true;
                 }
 

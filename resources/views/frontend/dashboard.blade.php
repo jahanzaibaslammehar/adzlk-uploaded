@@ -445,7 +445,7 @@
                                             <div class="card-header">
                                                 <i class="fa fa-shield"></i>
                                                 <h4>Verify Profile</h4>
-                                                <div class="price">Rs. 500.00</div>
+                                                <div class="price">Rs. {{ number_format($setting->verify_profile_price ?? 500, 2) }}</div>
                                             </div>
                                             <div class="card-features">
                                                 <span><i class="fa fa-check"></i> Profile Verification</span>

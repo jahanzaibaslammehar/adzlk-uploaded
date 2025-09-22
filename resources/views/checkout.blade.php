@@ -311,7 +311,7 @@
             <div class="verification-badge">
                 <i class="fa fa-shield"></i>
                 <strong>Profile Verification Required</strong><br>
-                <small>This category requires profile verification. Rs. 500 will be charged for verification.</small>
+                <small>This category requires profile verification. Rs. {{ number_format($setting->verify_profile_price ?? 500) }} will be charged for verification.</small>
             </div>
             @endif
         @endif
@@ -341,7 +341,7 @@
             @if(isset($pendingAdData['profile_verification']) && $pendingAdData['profile_verification'])
                 <div class="price-item verification-price">
                     <span class="price-label">Profile Verification Price:</span>
-                    <span class="price-value">Rs. 500</span>
+                    <span class="price-value">Rs. {{ number_format($setting->verify_profile_price ?? 500) }}</span>
                 </div>
             @endif
             <div class="price-total">
