@@ -151,7 +151,10 @@ class AdController extends Controller
         // Get categories for the sidebar
         $categories = \App\Models\AdCategory::all();
         
-        return view('frontend.ad-detail', compact('ad', 'categories'));
+        // Get settings for admin contact
+        $settings = Setting::first();
+        
+        return view('frontend.ad-detail', compact('ad', 'categories', 'settings'));
     }
 
     public function toggleLike($id)

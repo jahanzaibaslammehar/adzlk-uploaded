@@ -133,7 +133,6 @@
                           <div class="contact-info">
                               <p><i class="fa fa-envelope"></i> Email: hello@adsplatform.com</p>
                               <p><i class="fa fa-phone"></i> Phone: +1 (555) 123-4567</p>
-                              <p><i class="fa fa-map-marker"></i> Address: 123 Business Street, City, State 12345</p>
                               <p><i class="fa fa-clock"></i> Business Hours: Monday - Friday, 9:00 AM - 6:00 PM</p>
                           </div>
                       </div>

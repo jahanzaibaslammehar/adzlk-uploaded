@@ -273,8 +273,8 @@ function openViber(phoneNumber) {
 }
 
 function openAdminWhatsApp() {
-    // Admin WhatsApp number - you can configure this in settings or environment
-    const adminPhoneNumber = '1234567890'; // Replace with actual admin WhatsApp number
+    // Admin WhatsApp number from settings
+    const adminPhoneNumber = '{{ $settings->subscribe_whatsapp_link ?? "1234567890" }}';
     const message = 'Hi Admin, I need help with an ad on your platform. Ad ID: {{ $ad->id }}';
     const whatsappUrl = `https://wa.me/${adminPhoneNumber.replace(/\D/g, '')}?text=${encodeURIComponent(message)}`;
     window.open(whatsappUrl, '_blank');
