@@ -29,7 +29,7 @@
                         </button>
                     @else
                         <button class="btnVerifyProfile">
-                            <i class="fa fa-check-circle" style="color: #ffff; text-shadow: 0 0 3px rgba(0,0,0,0.3);"></i>Verify Profile
+                            <i class="fa fa-times-circle" style="color: #dc3545; text-shadow: 0 0 3px rgba(0,0,0,0.3);"></i>Not Verified
                         </button>
                     @endif
                 </div>

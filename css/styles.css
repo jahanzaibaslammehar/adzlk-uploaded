@@ -4236,6 +4236,18 @@ button.menu-toggle,
   color: #ffffff !important;
 }
 
+/* Unverified button styling */
+.dashboard .btnVerifyProfile:not(.verified) {
+  background: linear-gradient(135deg, #dc3545, #e74c3c) !important;
+  color: white !important;
+}
+
+.dashboard .btnVerifyProfile:not(.verified):hover {
+  background: linear-gradient(135deg, #c82333, #dc3545) !important;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(220, 53, 69, 0.4);
+}
+
 /* Verification checkbox styling */
 .dashboard .verification-field {
   margin: 20px 0;
